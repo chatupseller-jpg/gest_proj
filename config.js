@@ -1,2 +1,2 @@
-const SUPABASE_URL = 'sb_publishable_765qVxXCdIFiIRMGshOSWw_e5yLFeyS';
+const SUPABASE_URL = 'https://agonknpgtafttsycxmav.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFnb25rbnBndGFmdHRzeWN4bWF2Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MjE5MjU0OCwiZXhwIjoyMDk3NzY4NTQ4fQ.4WbJGDtnGx2Lfr4SgG6a0XkFX08hyasRYwV-aSGC5XM';
